@@ -1,6 +1,10 @@
 # flutter_auth_social
 
-A new Flutter project.
+Flutter + Firebase Autenticacion con Email, Google
+
+Sign in with Email
+
+sign in with Google
 
 ## Getting Started
 
