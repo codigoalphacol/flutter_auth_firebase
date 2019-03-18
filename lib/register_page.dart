@@ -45,6 +45,14 @@ class _RegisterPageState extends State<RegisterPage> {
                 }
               },
             ),
+            FlatButton(
+              child: Text('Register'),
+              color: Colors.deepPurple,
+              textColor: Colors.white,
+              onPressed: () {
+               _register();
+              }
+            ),
             Container(
               alignment: Alignment.center,
               child: Text(_success == null
@@ -85,3 +93,7 @@ class _RegisterPageState extends State<RegisterPage> {
 
 
 }
+
+
+
+
