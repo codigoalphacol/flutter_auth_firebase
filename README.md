@@ -1,10 +1,6 @@
-# flutter_auth_social
+# logincloud
 
-Flutter + Firebase Autenticacion con Email, Google
-
-Sign in with Email
-
-sign in with Google
+A new Flutter project.
 
 ## Getting Started
 
